@@ -1,22 +1,22 @@
 sha-poppin
 # Challenge 1: Fill this string in with your favorite word
-
+"sha-poppin"
 your_favorite_word = ""
-
+"My favorite word is sha-poppin"
 puts "My favorite word is #{your_favorite_word}"
-
+sha-poppin.upcase
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
-
+SHA-POPPIN=sha-poppin
 favorite_word_in_all_caps = your_favorite_word # Put a . after your_favorite word and use a String method.
-
+"MY FAVORTIE WORD IS SHA-POPPIN"
 puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
-
+sha-poppin.downcase
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
-
+sha-poppin="SHA-POPPIN"
 phrase = "IM NOT SHOUTING"
-
+sha-poppin=sha-poppin
 lowercased_phrase = phrase # Put a . after phrase and use a String method.
-
+puts sha-poppin
 puts lowercased_phrase
 
 # Challenge 4: Count how many letters are in that big_word
